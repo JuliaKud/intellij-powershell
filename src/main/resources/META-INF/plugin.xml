@@ -121,7 +121,7 @@
             class="com.intellij.plugin.powershell.ide.actions.RunScriptAction"
             text="Run Script"
             description="Run my powerShell script">
-      <add-to-group group-id="ToolbarRunGroup" anchor="first"/>
+      <add-to-group group-id="MainToolbarRight" anchor="first"/>
     </action>
   </actions>
 </idea-plugin>
